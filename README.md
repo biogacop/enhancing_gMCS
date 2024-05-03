@@ -6,7 +6,8 @@ of gene targets and their associated toxicities"].
 
 Directories:
 
-- CreateModelsAssociatedWithTasks                            Script to generate all models associated with the diferent metabolic tasks
+- CreateModelsAssociatedWithTasks
+Script to generate all models associated with the diferent metabolic tasks
 
 - Models                                                     Models used in this work
 

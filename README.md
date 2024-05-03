@@ -6,17 +6,12 @@ of gene targets and their associated toxicities"].
 
 Directories:
 
-- Sthapylococcus_epidermidis_RP62A_COBRA.xml                  Model in COBRA compatible format
+- CreateModelsAssociatedWithTasks                            Script to generate all models associated with the diferent metabolic tasks
 
-- Sthapylococcus_epidermidis_RP62A_Desdoblada.xml             Decoupled model
+- Models                                                     Models used in this work
 
-- Sthapylococcus_epidermidis_RP62A_Biomasa_reaction.xml       Model with lumped biomass reaction
+- Supplementary Materialsl                                   Supplementary Materials
 
-Minimal cut sets:
+- computed_gMCSs                                             Files containing the gMCSs computed for each model and each metabolic tasks compressed using Pickle
 
-
-- essentail_reacts.txt                                        List of essential reactions
-
-- hybridMedio.txt                                             Cut set of length 2 consisting in two exchange reactions
-
-- hybridMedium.txt                                            List of cut sets of length 2 consisting in an exchange reactions and an internal one
+-
